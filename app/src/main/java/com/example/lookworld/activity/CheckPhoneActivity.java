@@ -55,7 +55,6 @@ public class CheckPhoneActivity extends Activity {
 				
 			case ERROR:
 				Toast.makeText(CheckPhoneActivity.this, "获取失败，检查网络", Toast.LENGTH_SHORT).show();
-				
 			}
 			
 		}
