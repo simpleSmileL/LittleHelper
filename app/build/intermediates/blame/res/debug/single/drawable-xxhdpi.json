@@ -2,5 +2,9 @@
     {
         "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
         "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\githubproject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\githubproject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }
 ]

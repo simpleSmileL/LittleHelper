@@ -2,5 +2,9 @@
     {
         "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\githubproject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\githubproject\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]

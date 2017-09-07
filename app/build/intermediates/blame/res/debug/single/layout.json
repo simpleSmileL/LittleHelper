@@ -4,6 +4,10 @@
         "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "D:\\githubproject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\checkphone_layout.xml",
+        "source": "D:\\githubproject\\app\\src\\main\\res\\layout\\checkphone_layout.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoshow_layout.xml",
         "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\layout\\photoshow_layout.xml"
     },
@@ -12,12 +16,24 @@
         "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\layout\\weather.xml"
     },
     {
+        "merged": "D:\\githubproject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\githubproject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\layout\\query_number_activity.xml",
         "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\layout\\query_number_activity.xml"
     },
     {
+        "merged": "D:\\githubproject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weather_item.xml",
+        "source": "D:\\githubproject\\app\\src\\main\\res\\layout\\weather_item.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\layout\\checkphone_layout.xml",
         "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\layout\\checkphone_layout.xml"
+    },
+    {
+        "merged": "D:\\githubproject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\query_number_activity.xml",
+        "source": "D:\\githubproject\\app\\src\\main\\res\\layout\\query_number_activity.xml"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weather_item.xml",
@@ -26,5 +42,17 @@
     {
         "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\githubproject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photoshow_layout.xml",
+        "source": "D:\\githubproject\\app\\src\\main\\res\\layout\\photoshow_layout.xml"
+    },
+    {
+        "merged": "D:\\githubproject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\githubproject\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\githubproject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weather.xml",
+        "source": "D:\\githubproject\\app\\src\\main\\res\\layout\\weather.xml"
     }
 ]
