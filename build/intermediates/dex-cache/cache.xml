@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\javaAndroid\wxhl\android-sdk-windows\android-sdk-windows\extras\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\AndroidStudioProjects\Love\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_38e85c9fd4fffbcb14dbcb7fcd9d9b5d1fb70a88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Love\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\AndroidStudioProjects\Love\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_998513932ba8b40b76ef9d5b89643d40e7a0a176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\javaAndroid\wxhl\android-sdk-windows\android-sdk-windows\extras\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\AndroidStudioProjects\Love\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_38e85c9fd4fffbcb14dbcb7fcd9d9b5d1fb70a88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Love\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\AndroidStudioProjects\Love\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_4b308632eae7ddaaa07cee1627eddb425011a0fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Love\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\AndroidStudioProjects\Love\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_998513932ba8b40b76ef9d5b89643d40e7a0a176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Love\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\AndroidStudioProjects\Love\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_4b308632eae7ddaaa07cee1627eddb425011a0fd.jar" />
+    </item>
+
+</items>

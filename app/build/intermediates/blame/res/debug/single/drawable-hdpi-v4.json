@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guan.jpg",
+        "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\drawable-hdpi\\guan.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\after.jpg",
+        "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\drawable-hdpi\\after.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sunset.jpg",
+        "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\drawable-hdpi\\sunset.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dg_cancel_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\drawable-hdpi\\dg_cancel_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre.jpg",
+        "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\drawable-hdpi\\pre.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kj.jpg",
+        "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\drawable-hdpi\\kj.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aizi.jpg",
+        "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\drawable-hdpi\\aizi.jpg"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dg_button_cancel_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\drawable-hdpi\\dg_button_cancel_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Love\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dg_button_cancel_select.9.png",
+        "source": "E:\\AndroidStudioProjects\\Love\\app\\src\\main\\res\\drawable-hdpi\\dg_button_cancel_select.9.png"
+    }
+]
