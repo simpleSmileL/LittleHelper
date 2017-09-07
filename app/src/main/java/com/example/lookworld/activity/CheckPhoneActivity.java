@@ -105,6 +105,7 @@ public class CheckPhoneActivity extends Activity {
 						parser.setInput(is, "gbk");
 						int type = parser.getEventType();
 						while(type != XmlPullParser.END_DOCUMENT){
+							//解析xml文件
 							if(type == XmlPullParser.START_TAG){
 								if("chgmobile".equals(parser.getName())){
 									String phonenumber = parser.nextText();
